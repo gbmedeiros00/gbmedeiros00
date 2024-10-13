@@ -1,6 +1,6 @@
 <h1 align="center">Eae 👋, Eu Sou Gabriel Medeiros!</h1>
 
--🎓 Estou cursando Desenvolvimento de Software Multiplataforma na FATEC.
+- 🎓 Estou cursando Desenvolvimento de Software Multiplataforma na FATEC.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://gbmedeiros00.github.io/Portfolio/](https://gbmedeiros00.github.io/Portfolio/)
 
