@@ -4,7 +4,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://gbmedeiros00.github.io/Portfolio/](https://gbmedeiros00.github.io/Portfolio/)
 
-- 📫 How to reach me **gabrielcalebe71@gmail.com**
+- 📫 Fale comigo em: **gabrielcalebe71@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
