@@ -13,23 +13,23 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <ul>
-                <li><img src="https://skillicons.dev/icons?i=html" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=css" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=python" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=mysql" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=flask" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=git" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=bootstrap" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=figma" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=tailwind" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=aws" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=docker" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=javascript" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=typescript" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=react" alt=""></li>
-                <li><img src="https://skillicons.dev/icons?i=nodejs" alt=""></li>
-            </ul> </p>
+<p align="left"> 
+              <img src="https://skillicons.dev/icons?i=html" alt="">
+              <img src="https://skillicons.dev/icons?i=css" alt="">
+              <img src="https://skillicons.dev/icons?i=python" alt="">
+              <img src="https://skillicons.dev/icons?i=mysql" alt="">
+              <img src="https://skillicons.dev/icons?i=flask" alt="">
+              <img src="https://skillicons.dev/icons?i=git" alt="">
+              <img src="https://skillicons.dev/icons?i=bootstrap" alt="">
+              <img src="https://skillicons.dev/icons?i=figma" alt="">
+              <img src="https://skillicons.dev/icons?i=tailwind" alt="">
+              <img src="https://skillicons.dev/icons?i=aws" alt="">
+              <img src="https://skillicons.dev/icons?i=docker" alt="">
+              <img src="https://skillicons.dev/icons?i=javascript" alt="">
+              <img src="https://skillicons.dev/icons?i=typescript" alt="">
+              <img src="https://skillicons.dev/icons?i=react" alt="">
+              <img src="https://skillicons.dev/icons?i=nodejs" alt="">
+             </p>
 
 <p><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gbmedeiros00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="gbmedeiros00"/></p>
