@@ -6,7 +6,8 @@
 
 Estudante de Desenvolvimento de Software Multiplataforma na **FATEC**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://gbmedeiros00.github.io/Portfolio/)
+Meu portfpolio: [gbmedeiros00.github.io/Portfolio](https://gbmedeiros00.github.io/Portfolio/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmedeiros00/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel.medeiros05)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbmedeiros00@gmail.com)
@@ -40,7 +41,7 @@ Estudante de Desenvolvimento de Software Multiplataforma na **FATEC**.
 
 ---
 
-## Estatísticas do Github
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gbmedeiros00&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
